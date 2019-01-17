@@ -13,7 +13,7 @@ class Student
       CREATE TABLE IF NOT EXISTS students(
         id INTEGER PRIMARY KEY,
         name STRING,
-        album STRING
+        grade STRING
       )
     SQL
 
